@@ -12,6 +12,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+<html>
+	<head>
+		<meta name="msvalidate.01" content="FBA46D3B77E4714B9AEA6F2971EE6121" />
+		<title>Your SEO optimized title</title>
+	</head>
+	<body>
+		page contents
+	</body>
+</html>
 ## Header 2
 ### Header 3
 
