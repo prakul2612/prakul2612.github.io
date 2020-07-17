@@ -3,15 +3,6 @@
 You can use the [editor on GitHub](https://github.com/prakul2612/prakul2612.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
 <html>
 	<head>
 		<meta name="msvalidate.01" content="FBA46D3B77E4714B9AEA6F2971EE6121" />
@@ -21,6 +12,16 @@ Syntax highlighted code block
 		page contents
 	</body>
 </html>
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+
 ## Header 2
 ### Header 3
 
