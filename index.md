@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <html>
 	<head>
 		<meta name="msvalidate.01" content="FBA46D3B77E4714B9AEA6F2971EE6121" />
-		<title>Your SEO optimized title</title>
+		<title>PA INTL testing</title>
 	</head>
 	<body>
 		page contents
